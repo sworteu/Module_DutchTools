@@ -9,3 +9,6 @@ Please respect the people who provide you these extentions and share their credi
 
 If you have suggestions you can give them on the Real Software Forums here:
 http://forums.realsoftware.com/viewtopic.php?f=9&t=44797
+
+Have fun coding,
+Derk Jochems - swort  - The Netherlands
