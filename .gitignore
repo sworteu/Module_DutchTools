@@ -41,6 +41,8 @@ Desktop.ini
 #Xojo
 Builds*
 *.debug
+*.debug*
+*debug*
 *.debug.app
 Debug*.exe
 Debug*/Debug*.exe
@@ -48,3 +50,5 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete
+*.obsolete*
+*obsolete*
